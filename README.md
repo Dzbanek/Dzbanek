@@ -1,3 +1,5 @@
 👋 Hi, I’m @Dzbanek
+<br/>
 👀 I’m interested in programming
-🌱 I’m currently learning HTML, CSS, JavaScript, C# and Java
+<br/>
+🌱 I’m currently learning HTML, CSS, JavaScript and Java
